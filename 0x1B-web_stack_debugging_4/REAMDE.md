@@ -1,6 +1,3 @@
-://assets.imaginablefutures.com/media/images/ALX_Logo.max-200x150.png)
-  > Web stakck debugging #4
-
 
 ![the sky is the limit](https://media3.giphy.com/media/HV58tke92RgSLZIB7m/200w.webp?cid=ecf05e47n4bb6h4oal5mlkxrs63o7nadh4l1zi8qnhqtxml3&ep=v1_gifs_search&rid=200w.webp&ct=g)
 
