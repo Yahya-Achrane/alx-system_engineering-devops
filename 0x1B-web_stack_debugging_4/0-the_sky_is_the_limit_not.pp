@@ -1,4 +1,6 @@
-tch up our nginx webserver to handle
+#!/usr/bin/env puppet
+
+# patch up our nginx webserver to handle
 # a large number of requests
 exec { 'fix nginx':
   command => 'sed -i "s/15/4096/" /etc/default/nginx',
